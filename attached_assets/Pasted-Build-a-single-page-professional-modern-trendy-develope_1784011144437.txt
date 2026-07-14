@@ -1,0 +1,118 @@
+Build a single-page, professional, modern, trendy developer portfolio website for me. Use React (or clean HTML/CSS/JS if React isn't available in this environment) with Tailwind CSS. Keep it as ONE cohesive build — single page with smooth-scroll sections, no backend, no database, no auth. Fully responsive (mobile + desktop). Dark theme with a modern accent color (electric blue / teal / violet gradient) and glassmorphism touches, subtle scroll animations (fade/slide-in), and clean sans-serif typography (Inter / Poppins).
+
+MY IDENTITY
+
+
+Name: Rounak Rafik Harugire
+Title/tagline: AI/ML Engineer | Full-Stack Developer | GenAI & LLM Application Builder
+Short bio: Artificial Intelligence and Machine Learning graduate (B.Tech, 2026) with hands-on experience building AI-powered applications, RAG systems, LLM integrations, and full-stack products. Skilled in Python, FastAPI, LangChain, and backend development. Passionate about solving real-world problems through AI-driven software.
+Target roles this portfolio should appeal to: Software Engineer, AI Engineer, ML Engineer, AI/ML Engineer, Backend Developer, Python Engineer, Data Engineer
+
+
+CONTACT / LINKS (use exactly these, in a Contact section AND footer/header)
+
+
+Email: rounakharugire3435@gmail.com
+Phone: 7840942613
+GitHub: https://github.com/Rounak-Harugire
+LinkedIn: https://www.linkedin.com/in/rounak-harugire-a1a6502b7/
+Location: Ichalkaranji, Maharashtra, India
+
+
+REQUIRED SECTIONS (in this order)
+
+1. Navbar
+
+Sticky/fixed nav with links to each section (Home, About, Skills, Experience, Projects, Education, Certifications, Contact) + resume download button (placeholder link) + GitHub/LinkedIn icons.
+
+2. Hero Section
+
+Full-viewport intro with my name, animated typing-effect tagline cycling through: "AI/ML Engineer", "Backend Developer", "GenAI & LLM Builder", "Python Engineer". Include a short 1-2 line pitch, CTA buttons ("View Projects", "Contact Me"), and social icons (GitHub, LinkedIn, Email, Phone).
+
+3. About Me
+
+2-3 paragraph summary based on: AI/ML graduate skilled in Deep Learning, NLP, GenAI, building and deploying LLM-powered and data analytics projects, passionate about solving real-world problems through AI-driven software and backend systems. Mention CGPA 7.03, DKTE's Textile and Engineering Institute, Ichalkaranji, graduated 2026.
+
+4. Skills Section
+
+Organized as categorized cards/badges with icons:
+
+
+AI/ML Concepts: Deep Learning, Reinforcement Learning, Neural Networks, NLP, Generative AI (GenAI), RAG (Retrieval-Augmented Generation), Prompt Engineering, LLM Integration
+Frameworks & Libraries: FastAPI, TensorFlow, PyTorch, Scikit-Learn, LangChain, Streamlit
+Languages: Python, SQL, Java, HTML, CSS, JavaScript, PHP
+AI/LLM Platforms: Gemini AI, Groq (Llama 3), OpenAI API
+Databases: MongoDB Atlas (Vector Search), MySQL
+Tools & Platforms: Git, GitHub, VS Code, Railway, Docker
+
+
+5. Experience Section (Internship)
+
+AI Engineering & Web Development Intern — Zaalima Development Pvt. Ltd. (Status: Completed)
+
+
+Worked as the AI Engineer in a 5-member team, responsible for developing and integrating AI components.
+Built AI functionalities using Gemini AI, including prompt-based content generation and automation.
+Developed AI modules for document understanding, search, and question-answering features.
+Connected AI features with backend APIs, databases, and web applications.
+Contributed to two internship projects as part of this role: Extensio.ai and OpsMind AI (detailed as sub-cards or tags within this experience entry, clearly labeled "Internship Project" — NOT listed as standalone personal projects):
+
+Extensio.ai: AI-powered Chrome Extension generator using Gemini API — converts natural language prompts into fully functional Manifest V3 Chrome extensions, packaged as downloadable ZIPs. Tech: Node.js, Express.js, Gemini API, JavaScript.
+OpsMind AI: Enterprise RAG-powered document assistant — lets users query PDF documents and get answers with verifiable source citations. Uses MongoDB Atlas Vector Search (HNSW indexing), Google text-embedding-001, Gemini 1.5 Flash, JWT auth. Tech: React 18, Tailwind CSS, Node.js, Express, MongoDB Atlas, Docker.
+
+
+
+
+
+6. Projects Section (Personal Projects — separate from internship, use cards with tech tags + GitHub links where noted)
+
+
+NutriMind AI — Diet Specialist Bot: AI nutrition assistant delivering personalized diet recommendations. Built with FastAPI, LangChain, Groq Llama 3; MongoDB Atlas for persistent chat memory; optimized for real-time responses. Live demo: https://ai-diet-specialist-production.up.railway.app/ | Tech: Python, FastAPI, Streamlit, LangChain, Groq Llama 3, MongoDB Atlas.
+Neuropulse — AI-Based Screen Addiction Detector: Android AI application analyzing screen usage patterns to detect addictive behavior; deep learning models predict dopamine spikes and assess addiction risk levels. Tech: Python, TensorFlow, PyTorch, Pandas, NumPy, Java.
+AI Data Analysis Agent: LLM-powered agent that analyzes uploaded CSV/XLSX datasets and answers user questions via an interactive ChatGPT-style chat interface. Built end-to-end data pipeline with Pandas, deployed on Railway with CI-style Git workflow. Live demo: https://data-analysis-ai-agent-production.up.railway.app/ | Tech: Python, Streamlit, LLM API integration, Pandas, Git, Railway.
+Attendance Management System (Face Recognition): Automated attendance system using face recognition to identify and log attendance in real time, removing manual/proxy attendance. Tech: Python, OpenCV, Face Recognition libraries.
+Part-Time Job & Gig Finder: Full-stack web app connecting employers and job seekers for part-time jobs and gigs — employers post jobs, seekers browse/filter/apply. Features: authentication, resume upload, category-based filtering (IT, Mechanical, Civil, Electrical, Textile), real-time AJAX listings, secure password hashing. Tech: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL.
+HairCare — Personalized Ayurvedic Hair Wellness Platform: Full-stack platform delivering personalized hair care recommendations based on Ayurvedic dosha type via a multi-step quiz, plus user dashboard and appointment booking with hair experts. Tech: HTML5, CSS3, JavaScript, PHP, MySQL.
+
+
+Each project card: title, 2-3 line description, tech stack badges, and "View Repo" / "Live Demo" button (use "#" placeholder if no link given above).
+
+7. Education Section
+
+B.Tech in CSE (Artificial Intelligence & Machine Learning) — DKTE's Textile and Engineering Institute, Ichalkaranji. CGPA: 7.03. Status: Passed Out (2026).
+
+8. Certifications & Achievements Section
+
+
+Deep Learning — Issued by IIT Ropar
+Google Cloud Career Launchpad Certification
+State-level Buildathon — Participant
+Best Project Award (2026) — Received
+
+
+9. Contact Section
+
+Contact cards/icons for Email, Phone, GitHub, LinkedIn (all values listed above) plus a simple contact form UI (mailto: action, no backend needed — form just opens email client or shows a "message sent" toast, since there's no backend).
+
+10. Footer
+
+Name, tagline, copyright, social icons repeated, "Built with passion for AI" or similar line.
+
+DESIGN / UX REQUIREMENTS
+
+
+Modern, trendy 2026-style portfolio — NOT a generic Bootstrap template look.
+Smooth scroll navigation, scroll-triggered fade-in animations for each section.
+Hover effects on project cards (lift + glow), skill badges, and buttons.
+Fully mobile-responsive (hamburger menu on small screens).
+Fast-loading — no heavy external assets, use icon libraries like lucide-react or react-icons, and CSS/SVG for any decorative graphics instead of large images.
+Keep the code compact and efficient (avoid unnecessary boilerplate, unused components, or excessive comments) to stay within free-trial generation token limits — build this as ONE complete, working page in a single generation pass rather than many small iterative edits.
+
+
+IMPORTANT CONSTRAINTS
+
+
+Single-page site, no backend/database — everything static.
+Do not fabricate additional projects, employers, certifications, or details beyond what's listed above.
+Clearly distinguish internship-built projects (Extensio.ai, OpsMind AI) from personal projects — do not mix them into the same "Projects" grid.
+Use the exact contact details provided above throughout.
