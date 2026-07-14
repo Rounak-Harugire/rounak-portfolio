@@ -1,0 +1,34 @@
+Update my existing portfolio — additions only, no rebuild, no changes to layout/colors/other sections.
+
+Certifications — add 5 new cards (keep existing 2), each with "View Certificate" button (target="_blank", rel="noopener"):
+
+
+Generative AI Mastery Workshop — https://www.linkedin.com/posts/rounak-harugire-a1a6502b7_generative-ai-mastery-workshop-activity-7378669239869784064-omqa
+Google Cloud Career Launchpad (GenAI Track) — https://www.linkedin.com/posts/rounak-harugire-a1a6502b7_google-cloud-career-launchpad-generative-activity-7349060186180857859-o57g
+Java Training — https://www.linkedin.com/posts/rounak-harugire-a1a6502b7_completion-of-java-training-activity-7254875431810584576-GFaq
+Python Training — https://www.linkedin.com/posts/rounak-harugire-a1a6502b7_completion-of-python-343-training-activity-7254873737903149057-nGa1
+C++ Training — https://www.linkedin.com/posts/rounak-harugire-a1a6502b7_certificate-for-the-completion-cpp-training-activity-7231187184819580928-hFdR
+
+
+Add links to existing 2 certs:
+
+
+Deep Learning (IIT Ropar) → https://www.linkedin.com/posts/rounak-harugire-a1a6502b7_deep-learning-iit-ropar-activity-7398195460810776576-4O4M
+Google Cloud Career Launchpad Certification → https://www.linkedin.com/posts/rounak-harugire-a1a6502b7_google-cloud-career-launchpad-certificate-activity-7293651064988332033-zqaI
+
+
+New "Hackathons" section — place after Certifications, before Achievements, same card style, trophy icon:
+
+
+NxtWave State-Level Buildathon — Participant — https://www.linkedin.com/posts/rounak-harugire-a1a6502b7_state-level-nxtwave-buildathon-activity-7430837353885265920-5wP8
+Adobe Hackathon — Participant — https://www.linkedin.com/posts/rounak-harugire-a1a6502b7_adobe-hackathon-activity-7359229430319202332-YICu
+
+
+Achievements — add link to existing entry + 1 new item:
+
+
+Best Project Award (2026) → https://www.linkedin.com/posts/rounak-harugire-a1a6502b7_bestprojectaward-artificialintelligence-machinelearning-activity-7470120846494191616-BGi3
+NEW: Neuropulse — Research Paper Publication (authored/published research paper on Neuropulse AI screen-addiction detection system) → https://www.linkedin.com/posts/rounak-harugire-a1a6502b7_neuro-pulse-research-paper-activity-7449460743680217088-LPZq
+
+
+All links must be real, active, clickable, open in new tab. Do not touch Hero, Photo, Skills, Projects, Experience, or Education sections.
